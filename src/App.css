@@ -1,0 +1,56 @@
+
+.togg{  
+  justify-self: center;
+}
+.ddd{
+  margin: 0px;
+  background-color: white;
+  height: 50vh;
+  padding: 20px;
+}
+.ccc{
+  position: relative;
+  margin-bottom: 15px;
+}
+.ll{
+  float: left;
+}
+.aa{
+  float: right;
+  margin-bottom: 15px;
+}
+
+.ttt{
+  clear: right;
+  background-color: black;
+  color: rgb(192, 168, 168);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: start;
+  font-size: 1.5rem;
+}
+.box{
+  margin-left: 5%;
+  margin-right: 5%;
+   
+}
+.boxx{
+  
+  padding-left:  50px;
+  font-size: 15px;
+  font-weight: bold;
+}
+input{
+  height: 300px;
+  background-color: rgba(0, 0, 0, 0.24);
+  border-color: null;
+}
+p{
+  margin-left: 36px;
+  margin-right: 100px;
+  flex-wrap:wrap-reverse;
+}
+.ttt p{
+  color: white;
+}
